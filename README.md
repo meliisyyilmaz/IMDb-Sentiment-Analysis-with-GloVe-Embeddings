@@ -1,6 +1,5 @@
 # IMDb-Sentiment-Analysis-with-GloVe-Embeddings
 
-# 🎬 IMDb Sentiment Analysis with GloVe Embeddings
 
 A small side project that turned into a deep dive into classic NLP.  
 I built a sentiment analysis model using the IMDb movie reviews dataset — combining tried-and-true techniques with a few modern tweaks to keep it clean, fast, and generalizable.
